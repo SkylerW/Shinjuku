@@ -1,2 +1,2 @@
 # Shinjuku
-A concise and punctual Swift wrapper for GCD operations
+A swift, concise, and punctual GCD library
